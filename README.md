@@ -1,16 +1,47 @@
-## Hi there 👋
+## 👋 &nbsp;Hey there! I'm Enrico Lumini
 
-<!--
-**enrico-lumini/enrico-lumini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+💼 &nbsp;I'm currently working as R&D Embedded Firmware Engineer at [blumotix](https://blumotix.it), Italy.\
+💡 &nbsp;I like bare metal programming and developing low-level firmware that communicates directly with hardware, focusing on resource optimization and maximizing performance in constrained environments.\
+🌱 &nbsp;I'm currently learning better programming paradigms through Clean Code by Robert C. Martin, and exploring embedded technologies like FreeRTOS and RTOS.\
+✍️ &nbsp;In my free time, I enjoy 3D modeling and printing, building DIY projects from design to assembly, and recently built my own racing simulator for sim racing.\
+📄 &nbsp;Feel free to reach out to me for collaboration opportunities, interesting discussions, or if you'd like to connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=assemblyscript)&nbsp;\
+![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics&logoColor=03234B)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-05122A?style=flat&logo=raspberry-pi&logoColor=C51A4A)&nbsp;
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif&logoColor=E7352C)&nbsp;
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-05122A?style=flat)&nbsp;
+![RTOS](https://img.shields.io/badge/-RTOS-05122A?style=flat)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IAR Embedded Workbench](https://img.shields.io/badge/-IAR%20Embedded%20Workbench-05122A?style=flat)&nbsp;
+![STM32CubeIDE](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics)&nbsp;
+![STM32CubeProgrammer](https://img.shields.io/badge/-STM32CubeProgrammer-05122A?style=flat&logo=stmicroelectronics)&nbsp;\
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-05122A?style=flat&logo=autodesk&logoColor=FF6C00)&nbsp;
+![UltiMaker Cura](https://img.shields.io/badge/-UltiMaker%20Cura-05122A?style=flat&logo=ultimaker&logoColor=0099FF)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/enrico-lumini">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=enrico-lumini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=enrico-lumini&layout=compact&langs_count=4&theme=algolia"/>-->
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/enrico-lumini"><img src="https://img.shields.io/badge/-Enrico%20Lumini-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:enricolumini58@gmail.com"><img src="https://img.shields.io/badge/-enricolumini58@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/enrico_lumini"><img src="https://img.shields.io/badge/-@enrico_lumini_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
