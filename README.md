@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 ## 👋 &nbsp;Hey there! I'm Enrico Lumini
 
 ### 👨🏻‍💻 &nbsp;About Me
