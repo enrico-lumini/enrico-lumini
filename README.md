@@ -2,11 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💼 &nbsp;I'm currently working as R&D Embedded Firmware Engineer at [blumotix](https://blumotix.it), Italy.\
-💡 &nbsp;I like bare metal programming and developing low-level firmware that communicates directly with hardware, focusing on resource optimization and maximizing performance in constrained environments.\
-🌱 &nbsp;I'm currently learning better programming paradigms through Clean Code by Robert C. Martin, and exploring embedded technologies like FreeRTOS and RTOS.\
-✍️ &nbsp;In my free time, I enjoy 3D modeling and printing, building DIY projects from design to assembly, and recently built my own racing simulator for sim racing.\
-📄 &nbsp;Feel free to reach out to me for collaboration opportunities, interesting discussions, or if you'd like to connect
+💼 &nbsp;R&D Embedded Firmware Engineer at [Blumotix](https://blumotix.it), Italy.\
+💡 &nbsp;I like low-level firmware development, with a focus on resource optimization in constrained environments.\
+🌱 &nbsp;Currently reading Clean Code by Robert C. Martin and exploring FreeRTOS/RTOS technologies.\
+✍️ &nbsp;In my free time, I enjoy 3D printing, DIY electronics projects, and sim racing.\
+📄 &nbsp;Feel free to reach out for collaboration or interesting discussions.
 
 ### 🛠 &nbsp;Tech Stack
 
